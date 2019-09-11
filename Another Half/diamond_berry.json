@@ -1,0 +1,11 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+    "identifier": "skyfactory:diamond_nugget_from_berry"
+    },  
+    "tags": ["smoker"],
+    "input": "skyfactory:diamond_berry",
+    "output": "skyfactory:diamond_nugget"
+  } 
+}

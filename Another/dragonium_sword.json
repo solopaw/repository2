@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "skyfactory:dragonium_sword"
+        },
+
+
+        "tags": [ "crafting_table" ],
+        "pattern": [
+            "  #",
+            "N# ",
+            "XN "
+        ],
+        "key": {
+        	"#": {
+                "item": "skyfactory:dragonium_ingot"
+            },
+            "N": {
+                "item": "skyfactory:dragonium_nugget"
+            },
+            "X": {
+                "item": "minecraft:stick"
+            }
+        },
+        "result": {
+            "item": "skyfactory:dragonium_sword",
+            "data": 0
+        }
+    }
+}

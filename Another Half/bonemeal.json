@@ -1,0 +1,24 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "skyfactory:bonemeal"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "skyfactory:bone_fragment"
+      },
+      {
+        "item": "skyfactory:bone_fragment"
+      }
+    ],
+    "result": {
+      "item": "minecraft:dye",
+      "data": 15,
+      "count": 1
+    }
+  }
+}

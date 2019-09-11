@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:clay"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#P#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:sand"
+    },
+      "P": {
+        "item": "minecraft:potion"
+      }
+    },
+    "result": [
+      { "item": "minecraft:clay", "count": 1 },
+      { "item": "minecraft:glass_bottle", "count": 1, "data": 0 }
+    ]
+  }
+}

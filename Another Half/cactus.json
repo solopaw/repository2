@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "skyfactory:cactus_crafted"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#S#",
+      "###"
+    ],
+    "key": {
+      "#": {
+      "item": "minecraft:vine"
+    },
+      "S": {
+        "item": "minecraft:sand"
+      }
+    },
+    "result": {
+      "item": "minecraft:cactus",
+      "data": 0,
+      "count": 1
+    }
+  }
+}

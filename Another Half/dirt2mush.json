@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "skyfactory:dirt2"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "   ",
+      " # ",
+      "   "
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:red_mushroom_block"
+      }
+    },
+    "result": {
+      "item": "minecraft:dirt",
+      "data": 0,
+      "count": 4
+    }
+  }
+}

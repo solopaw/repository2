@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "skyfactory:dark_oak_planks_from_slabs"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "minecraft:wooden_slab",
+        "data": 5
+      },
+      {
+        "item": "minecraft:wooden_slab",
+        "data": 5
+      }
+    ],
+    "result": {
+      "item": "minecraft:planks",
+      "data": 5,
+      "count": 1
+    }
+  }
+}

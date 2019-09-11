@@ -1,0 +1,11 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+    "identifier": "minecraft:bone"
+    },  
+    "tags": ["furnace"],
+    "input": "minecraft:wool",
+    "output": "minecraft:bone"
+  } 
+}

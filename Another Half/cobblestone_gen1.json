@@ -1,0 +1,36 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "skyfactory:cobblestone_gen1"
+    },
+
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "CCC",
+      "LTW",
+      "CCC"
+    ],
+    "key": {
+      "C": {
+        "item": "minecraft:cobblestone"
+      },
+      "W": {
+        "item": "minecraft:bucket",
+        "data":8
+      },
+      "L": {
+        "item": "minecraft:bucket",
+        "data":10
+      },
+      "T": {
+        "item": "skyfactory:tempered_plastic_sheet"
+      }
+    },
+    "result": {
+      "item": "skyfactory:cobblestone_gen1_template",
+      "data": 0,
+      "count": 1
+    }
+  }
+}

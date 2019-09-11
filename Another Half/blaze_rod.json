@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "skyfactory:blaze_rod"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "s#s",
+      "#s#",
+      "s#s"
+    ],
+    "key": {
+      "s": {
+      "item": "minecraft:string"
+    },
+      "#": {
+        "item": "minecraft:magma_cream"
+      }
+    },
+    "result": {
+      "item": "minecraft:blaze_rod"
+    }
+  }
+}

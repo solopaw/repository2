@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "skyfactory:dark_oak_sapling"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "ooo",
+      "oDo",
+      "ooo"
+    ],
+    "key": {
+      "o": {
+      "item": "minecraft:sapling",
+      "data": 0
+    },
+      "D": {
+        "item": "minecraft:deadbush"
+      }
+    },
+    "result": {
+      "item": "minecraft:sapling",
+      "data": 5
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "skyfactory:compressed_sugarcane"
+    },
+
+    
+    "tags": [ "stonecutter" ],
+    "ingredients": [
+      {
+        "item": "skyfactory:double_compressed_sugarcane"
+      }
+    ],
+    "result": {
+      "item": "skyfactory:compressed_sugarcane",
+      "count": 9
+    }
+  }
+}

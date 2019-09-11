@@ -1,0 +1,28 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "skyfactory:diamond_seed"
+        },
+
+
+        "tags": [ "crafting_table" ],
+        "pattern": [
+            "###",
+            "XXX",
+            "###"
+        ],
+        "key": {
+            "#": {
+                "item": "minecraft:wheat_seeds"
+            },
+            "X": {
+                "item": "skyfactory:diamond_nugget"
+            }
+        },
+        "result": {
+            "item": "skyfactory:diamond_seed",
+            "data": 0
+        }
+    }
+}

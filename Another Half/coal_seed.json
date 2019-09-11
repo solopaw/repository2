@@ -1,0 +1,28 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "skyfactory:coal_seed"
+        },
+
+
+        "tags": [ "crafting_table" ],
+        "pattern": [
+            "###",
+            "XXX",
+            "###"
+        ],
+        "key": {
+            "#": {
+                "item": "minecraft:wheat_seeds"
+            },
+            "X": {
+                "item": "skyfactory:charcoal_chunk"
+            }
+        },
+        "result": {
+            "item": "skyfactory:coal_seed",
+            "data": 0
+        }
+    }
+}

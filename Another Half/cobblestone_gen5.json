@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "skyfactory:cobblestone_gen5"
+    },
+
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "III",
+      "IGI",
+      "III"
+    ],
+    "key": {
+      "I": {
+        "item": "minecraft:emerald"
+      },
+      "G": {
+        "item": "skyfactory:cobblestone_gen4_template",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "skyfactory:cobblestone_gen5_template",
+      "data": 0,
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+    "identifier": "skyfactory:dragonium_fragment_from_berry"
+    },  
+    "tags": ["smoker"],
+    "input": "skyfactory:dragonium_berry",
+    "output": "skyfactory:dragonium_fragment"
+  } 
+}

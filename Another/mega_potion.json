@@ -1,0 +1,51 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "skyfactory:mega_potion"
+    },
+
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "abc",
+      "#D#",
+      "def"
+    ],
+    "key": {
+      "a": {
+        "item": "skyfactory:quartz_berry",
+        "count":16
+      },
+      "b": {
+        "item": "skyfactory:lapis_berry",
+        "count":16
+      },
+      "c": {
+        "item": "skyfactory:coal_berry",
+        "count":16
+      },
+      "d": {
+        "item": "skyfactory:dragonium_berry",
+        "count":16
+      },
+      "e": {
+        "item": "skyfactory:emerald_berry",
+        "count":16
+      },
+      "f": {
+        "item": "skyfactory:diamond_berry",
+        "count":16
+      },
+      "D": {
+        "item": "minecraft:potion",
+        "data": 0
+      },
+      "#": {
+        "item": "skyfactory:dragonium_ingot"
+      }
+    },
+    "result": {
+      "item": "skyfactory:mega_potion"
+    }
+  }
+}

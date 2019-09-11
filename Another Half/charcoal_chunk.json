@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "skyfactory:charcoal_chunk"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "minecraft:coal",
+        "data": 1
+      }
+    ],
+    "result": {
+      "item": "skyfactory:charcoal_chunk",
+      "data": 0,
+      "count": 4
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+    "identifier": "skyfactory:iron_nugget"
+    },  
+    "tags": ["furnace"],
+    "input": "skyfactory:compressed_cobblestone",
+    "output": "minecraft:iron_nugget"
+  } 
+}

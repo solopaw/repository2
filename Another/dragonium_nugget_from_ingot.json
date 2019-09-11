@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "skyafctory:dragonium_nugget_from_ingot"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "skyfactory:dragonium_ingot"
+      }
+    ],
+    "result": {
+      "item": "skyfactory:dragonium_nugget",
+      "count": 9
+    }
+  }
+}

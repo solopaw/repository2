@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "skyfactory:cobblestone_gen3"
+    },
+
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "III",
+      "IGI",
+      "III"
+    ],
+    "key": {
+      "I": {
+        "item": "minecraft:diamond"
+      },
+      "G": {
+        "item": "skyfactory:cobblestone_gen2_template",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "skyfactory:cobblestone_gen3_template",
+      "data": 0,
+      "count": 1
+    }
+  }
+}

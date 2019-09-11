@@ -1,0 +1,32 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "skyfactory:bone_sword"
+        },
+
+
+        "tags": [ "crafting_table" ],
+        "pattern": [
+            "  #",
+            "X# ",
+            "SX "
+        ],
+        "key": {
+        	"#": {
+                "item": "minecraft:bone_block"
+            },
+            "X": {
+                "item": "minecraft:dye",
+                "data": 15
+            },
+            "S": {
+                "item": "minecraft:bone"
+            }
+        },
+        "result": {
+            "item": "skyfactory:bone_sword",
+            "data": 0
+        }
+    }
+}

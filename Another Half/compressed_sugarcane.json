@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "skyfactory:compressed_sugarcane"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "RRR",
+      "RRR",
+      "RRR"
+    ],
+    "key": {
+      "R": {
+        "item": "minecraft:reeds"
+      }
+    },
+    "result": {
+      "item": "skyfactory:compressed_sugarcane",
+      "data": 0
+    }
+  }
+}
