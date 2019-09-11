@@ -8,13 +8,13 @@
     
     "tags": [ "crafting_table" ],
     "pattern": [
-      "###",
-      "###",
-      "###"
+      "",
+      " # ",
+      ""
     ],
     "key": {
       "#": {
-        "item": "skyfactory:diamond_nugget"
+        "item": "minecraft:diamond_block"
       }
     },
     "result": {
