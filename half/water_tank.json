@@ -1,0 +1,32 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "skyfactory:water_tank"
+    },
+
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "X#X",
+      "#W#",
+      "X#X"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:obsidian"
+      },
+      "W": {
+        "item": "minecraft:bucket",
+        "data": 8
+      },
+      "#": {
+        "item": "minecraft:glass"
+      }
+    },
+    "result": {
+      "item": "skyfactory:water_tank_template",
+      "data": 0,
+      "count": 1
+    }
+  }
+}

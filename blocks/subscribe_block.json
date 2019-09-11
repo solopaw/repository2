@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:block": {
+    "description": {
+      "identifier": "skyfactory:subscribe_block",
+      "register_to_creative_menu": false,
+      "is_experimental": false
+    },
+    "components": {
+      "minecraft:destroy_time": {
+        "value": 90.0
+      },
+      "minecraft:block_light_absorption": {
+        "value": 0.0
+      },
+      "minecraft:loot": {
+      "table": "loot_tables/subscribe_block.json"
+      },
+      "minecraft:block_light_emission": {
+        "emission": 0.5
+      },
+      "minecraft:map_color": {
+        "color": "#0000ff"
+      },
+      "minecraft:explosion_resistance": {
+        "value":  40.0
+      }
+    }
+  }
+}

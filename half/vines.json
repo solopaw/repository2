@@ -1,0 +1,11 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+    "identifier": "skyfactory:dryed_leaves"
+    },  
+    "tags": ["campfire"],
+    "input": "minecraft:leaves",
+    "output": "minecraft:vine"
+  } 
+}

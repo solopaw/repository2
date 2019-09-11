@@ -1,0 +1,11 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+    "identifier": "skyfactory:slimeball"
+    },  
+    "tags": ["furnace"],
+    "input": "skyfactory:double_compressed_sugarcane",
+    "output": "minecraft:slimeball"
+  } 
+}

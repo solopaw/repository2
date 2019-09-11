@@ -1,0 +1,29 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "skyfactory:spruce_sapling"
+        },
+
+
+        "tags": [ "crafting_table" ],
+        "pattern": [
+            "###",
+            "#X#",
+            "###"
+        ],
+        "key": {
+            "#": {
+                "item": "minecraft:dirt",
+                "data": 1
+            },
+            "X": {
+                "item": "minecraft:deadbush"
+            }
+        },
+        "result": {
+            "item": "minecraft:sapling",
+            "data": 1
+        }
+    }
+}

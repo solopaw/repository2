@@ -1,0 +1,11 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+    "identifier": "skyfactory:quartz_from_berry"
+    },  
+    "tags": ["smoker"],
+    "input": "skyfactory:quartz_berry",
+    "output": "minecraft:quartz"
+  } 
+}

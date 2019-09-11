@@ -1,0 +1,24 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "minecraft:sand_red"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "minecraft:sand"
+      },
+      {
+        "item": "minecraft:dye",
+        "data": 1
+      }
+    ],
+    "result": {
+      "item": "minecraft:sand",
+      "data": 1
+    }
+  }
+}

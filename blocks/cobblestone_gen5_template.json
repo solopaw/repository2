@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:block": {
+    "description": {
+      "identifier": "skyfactory:cobblestone_gen5_template",
+      "register_to_creative_menu": true,
+      "is_experimental": false
+    },
+    "components": {
+      "minecraft:destroy_time": {
+        "value": 1.1
+      },
+      "minecraft:block_light_absorption": {
+        "value": 0.0
+      },
+      "minecraft:block_light_emission": {
+        "emission": 0.0
+      },
+      "minecraft:map_color": {
+        "color": "#0000ff"
+      },
+      "minecraft:explosion_resistance": {
+        "value":  10.0
+      }
+    }
+  }
+}

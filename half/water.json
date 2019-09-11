@@ -1,0 +1,11 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+    "identifier": "skyfactory:water_tile"
+    },  
+    "tags": ["furnace"],
+    "input": "skyfactory:compressed_cactus",
+    "output": "minecraft:water"
+  } 
+}

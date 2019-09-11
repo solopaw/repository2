@@ -1,0 +1,24 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "skyfactory:torch2"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "minecraft:stick"
+      },
+      {
+        "item": "skyfactory:charcoal_chunk"
+      }
+    ],
+    "result": {
+      "item": "minecraft:torch",
+      "data": 0,
+      "count": 1
+    }
+  }
+}

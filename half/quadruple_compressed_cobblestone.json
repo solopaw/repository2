@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "skyfactory:quadruple_compressed_cobblestone"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "skyfactory:triple_compressed_cobblestone"
+      }
+    },
+    "result": {
+      "item": "skyfactory:quadruple_compressed_cobblestone",
+      "data": 0
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+    "identifier": "skyfactory:tempered_plastic_sheet"
+    },  
+    "tags": ["blast_furnace"],
+    "input": "skyfactory:plastic_sheet",
+    "output": "skyfactory:tempered_plastic_sheet"
+  } 
+}

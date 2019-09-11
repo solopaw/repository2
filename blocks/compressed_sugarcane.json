@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:block": {
+    "description": {
+      "identifier": "skyfactory:compressed_sugarcane",
+      "register_to_creative_menu": true,
+      "is_experimental": false
+    },
+    "components": {
+      "minecraft:destroy_time": {
+        "value": 0.9
+      },
+      "minecraft:block_light_absorption": {
+        "value": 0.0
+      },
+      "minecraft:loot": {
+      "table": "loot_tables/blocks/compressed_sugarcane.json"
+      },
+      "minecraft:block_light_emission": {
+        "emission": 0.0
+      },
+      "minecraft:map_color": {
+        "color": "#0000ff"
+      },
+      "minecraft:explosion_resistance": {
+        "value":  4.0
+      }
+    }
+  }
+}

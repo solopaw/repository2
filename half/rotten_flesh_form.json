@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "skyfactory:rotten_flesh"
+    },
+
+    
+    "tags": [ "stonecutter" ],
+    "ingredients": [
+      {
+        "item": "skyfactory:compressed_rotten_flesh"
+      }
+    ],
+    "result": {
+      "item": "minecraft:rotten_flesh",
+      "count": 9
+    }
+  }
+}

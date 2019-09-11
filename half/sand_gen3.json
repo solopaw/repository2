@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "skyfactory:sand_gen3"
+    },
+
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "RRR",
+      "RGR",
+      "RRR"
+    ],
+    "key": {
+      "R": {
+        "item": "minecraft:redstone_block"
+      },
+      "G": {
+        "item": "skyfactory:sand_gen2_template",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "skyfactory:sand_gen3_template",
+      "data": 0,
+      "count": 1
+    }
+  }
+}

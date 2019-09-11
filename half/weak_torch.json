@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "skyfactory:weak_torch"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      " S ",
+      "SGS",
+      " S "
+    ],
+    "key": {
+      "G": {
+      "item": "minecraft:gunpowder"
+    },
+      "S": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "skyfactory:weak_torch",
+      "count": 2
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+    "identifier": "skyfactory:redstone_from_berry"
+    },  
+    "tags": ["smoker"],
+    "input": "skyfactory:redstone_berry",
+    "output": "minecraft:redstone"
+  } 
+}

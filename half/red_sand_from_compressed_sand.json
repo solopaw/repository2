@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "minecraft:sand"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "skyfactory:compressed_sand"
+      },
+      {
+        "item": "minecraft:dye",
+        "data": 1
+      }
+    ],
+    "result": {
+      "item": "minecraft:sand",
+      "data": 1,
+      "count": 9
+    }
+  }
+}

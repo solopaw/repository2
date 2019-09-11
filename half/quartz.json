@@ -1,0 +1,11 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+    "identifier": "minecraft:quartz"
+    },  
+    "tags": ["furnace"],
+    "input": "minecraft:ghast_tear",
+    "output": "minecraft:quartz"
+  } 
+}
