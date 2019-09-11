@@ -1,0 +1,27 @@
+{
+  "skyfactory.player.twerk": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/skyfactory/player/twerk1",
+        "volume": 0.015
+      },
+      {
+        "name": "sounds/skyfactory/player/twerk2",
+        "volume": 0.015
+      },      
+      {
+        "name": "sounds/skyfactory/player/twerk3",
+        "volume": 0.015
+      },      
+      {
+        "name": "sounds/skyfactory/player/twerk4",
+        "volume": 0.015
+      },      
+      {
+        "name": "sounds/skyfactory/player/twerk5",
+        "volume": 0.015
+      }
+    ]
+  }
+}

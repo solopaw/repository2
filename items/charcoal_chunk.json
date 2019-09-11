@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "skyfactory:charcoal_chunk",
+      "category": "Items"
+    },
+
+    "components": {
+      "minecraft:icon": "charcoal_chunk",
+      "minecraft:render_offsets": "tools"
+    }
+  }
+}

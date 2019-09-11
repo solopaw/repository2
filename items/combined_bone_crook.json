@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "skyfactory:combined_bone_crook",
+      "category": "Equipment"
+    },
+
+    "components": {
+      "minecraft:icon": "combined_bone_crook",
+      "minecraft:render_offsets": "tools"
+    }
+  }
+}

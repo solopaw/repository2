@@ -1,0 +1,15 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "skyfactory:spider_goo",
+      "category": "Nature"
+    },
+
+    "components": {
+      "minecraft:icon": "spider_goo",
+      "minecraft:use_animation": "drink",
+      "minecraft:render_offsets": "tools"
+    }
+  }
+}

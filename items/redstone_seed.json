@@ -1,0 +1,14 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "skyfactory:redstone_seed",
+      "category": "Nature"
+    },
+
+    "components": {
+      "minecraft:icon": "redstone_seed",
+      "minecraft:render_offsets": "tools"
+    }
+  }
+}

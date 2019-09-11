@@ -1,0 +1,14 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "skyfactory:tempered_plastic_sheet",
+      "category": "Items"
+    },
+
+    "components": {
+      "minecraft:icon": "tempered_plastic_sheet",
+      "minecraft:render_offsets": "tools"
+    }
+  }
+}

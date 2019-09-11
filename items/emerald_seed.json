@@ -1,0 +1,14 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "skyfactory:emerald_seed",
+      "category": "Nature"
+    },
+
+    "components": {
+      "minecraft:icon": "emerald_seed",
+      "minecraft:render_offsets": "tools"
+    }
+  }
+}

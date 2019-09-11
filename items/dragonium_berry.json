@@ -1,0 +1,15 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "skyfactory:dragonium_berry",
+      "category": "Nature"
+    },
+
+    "components": {
+      "minecraft:icon": "dragonium_berry",
+      "minecraft:use_animation": "eat",
+      "minecraft:render_offsets": "tools"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "skyfactory:batwing",
+      "category": "Nature"
+    },
+
+    "components": {
+      "minecraft:icon": "batwing",
+      "minecraft:render_offsets": "tools"
+    }
+  }
+}

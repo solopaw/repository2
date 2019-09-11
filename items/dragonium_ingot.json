@@ -1,0 +1,14 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "skyfactory:dragonium_ingot",
+      "category": "Items"
+    },
+
+    "components": {
+      "minecraft:icon": "dragonium_ingot",
+      "minecraft:render_offsets": "tools"
+    }
+  }
+}
