@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Sky Factory Res Pack By DRP",
+        "name": "Sky Factory Res Pack By DRP",
+        "uuid": "db1471a6-f6c8-464a-ad56-67a0fc89818f",
+        "version": [1, 0, 2],
+        "min_engine_version": [1, 2, 6]
+    },
+    "modules": [
+        {
+            "description": "Sky Factory Res Pack By DRP",
+            "type": "resources",
+            "uuid": "98262009-17ec-42ce-91e2-f1db7e1b7b5a",
+            "version": [1, 0, 2]
+        }
+    ]
+}

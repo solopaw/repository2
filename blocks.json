@@ -1,0 +1,176 @@
+{
+  "format_version": [
+    1,
+    1,
+    0
+  ],
+
+    "skyfactory:compressed_cobblestone": {
+    "textures": "compressed_cobblestone",
+    "sound": "stone"
+  },
+    "skyfactory:compressed_sugarcane": {
+    "textures": "compressed_sugarcane",
+    "sound": "wood"
+  },
+    "skyfactory:double_compressed_sugarcane": {
+    "textures": "double_compressed_sugarcane",
+    "sound": "wood"
+  },
+    "skyfactory:subscribe_block": {
+    "textures": "subscribe_block",
+    "sound": "stone"
+  },
+    "skyfactory:compressed_rotten_flesh": {
+    "textures": "compressed_rotten_flesh",
+    "sound": "grass"
+  },
+    "skyfactory:triple_compressed_sugarcane": {
+    "textures": "triple_compressed_sugarcane",
+    "sound": "wood"
+  },
+    "skyfactory:quadruple_compressed_sugarcane": {
+    "textures": "quadruple_compressed_sugarcane",
+    "sound": "wood"
+  },
+    "skyfactory:weak_torch": {
+    "blockshape": "torch",
+    "textures": "weak_torch",
+    "sound": "wood"
+  },
+    "skyfactory:diamond_plant": {
+    "blockshape": "chorus_plant",
+    "textures": "diamond_plant",
+    "sound": "grass"
+  },
+    "skyfactory:coal_plant": {
+    "blockshape": "chorus_plant",
+    "textures": "coal_plant",
+    "sound": "grass"
+  },
+    "skyfactory:dragonium_plant": {
+    "blockshape": "chorus_plant",
+    "textures": "dragonium_plant",
+    "sound": "grass"
+  },
+    "skyfactory:quartz_plant": {
+    "blockshape": "chorus_plant",
+    "textures": "quartz_plant",
+    "sound": "grass"
+  },
+    "skyfactory:redstone_plant": {
+    "blockshape": "chorus_plant",
+    "textures": "redstone_plant",
+    "sound": "grass"
+  },
+    "skyfactory:emerald_plant": {
+    "blockshape": "chorus_plant",
+    "textures": "emerald_plant",
+    "sound": "grass"
+  },
+    "skyfactory:blue_plant": {
+    "blockshape": "chorus_plant",
+    "textures": "blue_plant",
+    "sound": "grass"
+  },
+    "skyfactory:end_block": {
+    "textures": "end_block",
+    "sound": "glass"
+  },
+    "skyfactory:dragonium_block": {
+    "textures": "dragonium_block",
+    "sound": "glass"
+  },
+    "skyfactory:double_compressed_sand": {
+    "textures": "double_compressed_sand",
+    "sound": "sand"
+  },
+    "skyfactory:compressed_cactus": {
+    "textures": "compressed_cactus",
+    "sound": "grass"
+  },
+    "skyfactory:farmer_template": {
+    "textures": "farmer_template",
+    "sound": "grass"
+  },
+    "skyfactory:grinder_template": {
+    "textures": "grinder_template",
+    "sound": "stone"
+  },
+    "skyfactory:cobblestone_miner_template": {
+    "textures": "cobblestone_miner_template",
+    "sound": "stone"
+  },
+    "skyfactory:lava_tank_template": {
+    "textures": "lava_tank_template",
+    "sound": "glass"
+  },
+    "skyfactory:water_tank_template": {
+    "textures": "water_tank_template",
+    "sound": "glass"
+  },
+    "skyfactory:sand_gen2_template": {
+    "textures": "sand_gen2_template",
+    "sound": "sand"
+  },
+    "skyfactory:sand_gen3_template": {
+    "textures": "sand_gen3_template",
+    "sound": "sand"
+  },
+    "skyfactory:sand_gen4_template": {
+    "textures": "sand_gen4_template",
+    "sound": "sand"
+  },
+    "skyfactory:sand_gen5_template": {
+    "textures": "sand_gen5_template",
+    "sound": "sand"
+  },
+    "skyfactory:sand_gen1_template": {
+    "textures": "sand_gen1_template",
+    "sound": "sand"
+  },
+    "skyfactory:cobblestone_gen2_template": {
+    "textures": "cobblestone_gen2_template",
+    "sound": "stone"
+  },
+    "skyfactory:cobblestone_gen3_template": {
+    "textures": "cobblestone_gen3_template",
+    "sound": "stone"
+  },
+    "skyfactory:cobblestone_gen4_template": {
+    "textures": "cobblestone_gen4_template",
+    "sound": "stone"
+  },
+    "skyfactory:cobblestone_gen5_template": {
+    "textures": "cobblestone_gen5_template",
+    "sound": "stone"
+  },
+    "skyfactory:cobblestone_gen1_template": {
+    "textures": "cobblestone_gen1_template",
+    "sound": "stone"
+  },
+    "skyfactory:triple_compressed_cobblestone": {
+    "textures": "triple_compressed_cobblestone",
+    "sound": "stone"
+  },
+    "skyfactory:quadruple_compressed_cobblestone": {
+    "textures": "quadruple_compressed_cobblestone",
+    "sound": "stone"
+  },
+    "skyfactory:double_compressed_red_sand": {
+    "textures": "double_compressed_red_sand",
+    "sound": "sand"
+  },
+    "skyfactory:compressed_red_sand": {
+    "textures": "compressed_red_sand",
+    "sound": "sand"
+  },
+    "skyfactory:compressed_sand": {
+    "textures": "compressed_sand",
+    "sound": "sand"
+  },
+    "skyfactory:double_compressed_cobblestone": {
+    "textures": "double_compressed_cobblestone",
+    "sound": "stone"
+  }
+}

@@ -1,0 +1,196 @@
+{
+	"entity_sounds": {
+		"entities": {
+	  "skyfactory:sand_gen1": {
+        "volume": 1.0,
+        "pitch": [ 0.8, 1.2 ],
+        "events": {
+          "ambient": "",
+          "hurt": "random.break",
+          "death": "dig.sand",
+          "step": {
+            "sound": "",
+            "volume": 0.15,
+            "pitch": 1.0
+          },
+          "plop": "tile.piston.out"
+        }
+      },
+      "skyfactory:sand_gen2": {
+        "volume": 1.0,
+        "pitch": [ 0.8, 1.2 ],
+        "events": {
+          "ambient": "",
+          "hurt": "random.break",
+          "death": "dig.sand",
+          "step": {
+            "sound": "",
+            "volume": 0.15,
+            "pitch": 1.0
+          },
+          "plop": "tile.piston.out"
+        }
+      },
+      "skyfactory:sand_gen3": {
+        "volume": 1.0,
+        "pitch": [ 0.8, 1.2 ],
+        "events": {
+          "ambient": "",
+          "hurt": "random.break",
+          "death": "dig.sand",
+          "step": {
+            "sound": "",
+            "volume": 0.15,
+            "pitch": 1.0
+          },
+          "plop": "tile.piston.out"
+        }
+      },
+      "skyfactory:sand_gen4": {
+        "volume": 1.0,
+        "pitch": [ 0.8, 1.2 ],
+        "events": {
+          "ambient": "",
+          "hurt": "random.break",
+          "death": "dig.sand",
+          "step": {
+            "sound": "",
+            "volume": 0.15,
+            "pitch": 1.0
+          },
+          "plop": "tile.piston.out"
+        }
+      },
+      "skyfactory:sand_gen5": {
+        "volume": 1.0,
+        "pitch": [ 0.8, 1.2 ],
+        "events": {
+          "ambient": "",
+          "hurt": "random.break",
+          "death": "dig.sand",
+          "step": {
+            "sound": "",
+            "volume": 0.15,
+            "pitch": 1.0
+          },
+          "plop": "tile.piston.out"
+        }
+      },
+      "skyfactory:lava_tank": {
+        "volume": 1.0,
+        "pitch": [ 0.8, 1.2 ],
+        "events": {
+          "ambient": "",
+          "hurt": "random.break",
+          "death": "dig.glass",
+          "step": {
+            "sound": "",
+            "volume": 0.15,
+            "pitch": 1.0
+        }
+      },
+      "skyfactory:water_tank": {
+        "volume": 1.0,
+        "pitch": [ 0.8, 1.2 ],
+        "events": {
+          "ambient": "",
+          "hurt": "random.break",
+          "death": "dig.glass",
+          "step": {
+            "sound": "",
+            "volume": 0.15,
+            "pitch": 1.0
+        }
+      },
+      "skyfactory:cobblestone_miner": {
+        "volume": 1.0,
+        "pitch": [ 0.8, 1.2 ],
+        "events": {
+          "ambient": "",
+          "hurt": "random.break",
+          "death": "dig.stone",
+          "step": {
+            "sound": "",
+            "volume": 0.15,
+            "pitch": 1.0
+        }
+      },
+      "skyfactory:cobblestone_gen1": {
+        "volume": 1.0,
+        "pitch": [ 0.8, 1.2 ],
+        "events": {
+          "ambient": "",
+          "hurt": "random.break",
+          "death": "dig.stone",
+          "step": {
+            "sound": "",
+            "volume": 0.15,
+            "pitch": 1.0
+          },
+          "plop": "liquid.lavapop"
+        }
+      },
+      "skyfactory:cobblestone_gen2": {
+        "volume": 1.0,
+        "pitch": [ 0.8, 1.2 ],
+        "events": {
+          "ambient": "",
+          "hurt": "random.break",
+          "death": "dig.stone",
+          "step": {
+            "sound": "",
+            "volume": 0.15,
+            "pitch": 1.0
+          },
+          "plop": "liquid.lavapop"
+        }
+      },
+      "skyfactory:cobblestone_gen3": {
+        "volume": 1.0,
+        "pitch": [ 0.8, 1.2 ],
+        "events": {
+          "ambient": "",
+          "hurt": "random.break",
+          "death": "dig.stone",
+          "step": {
+            "sound": "",
+            "volume": 0.15,
+            "pitch": 1.0
+          },
+          "plop": "liquid.lavapop"
+        }
+      },
+      "skyfactory:cobblestone_gen4": {
+        "volume": 1.0,
+        "pitch": [ 0.8, 1.2 ],
+        "events": {
+          "ambient": "",
+          "hurt": "random.break",
+          "death": "dig.stone",
+          "step": {
+            "sound": "",
+            "volume": 0.15,
+            "pitch": 1.0
+          },
+          "plop": "liquid.lavapop"
+        }
+      },
+      "skyfactory:cobblestone_gen5": {
+        "volume": 1.0,
+        "pitch": [ 0.8, 1.2 ],
+        "events": {
+          "ambient": "",
+          "hurt": "random.break",
+          "death": "dig.stone",
+          "step": {
+            "sound": "",
+            "volume": 0.15,
+            "pitch": 1.0
+          },
+          "plop": "liquid.lavapop"
+          }
+        }
+      }
+	}
+  }
+}
