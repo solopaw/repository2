@@ -1,0 +1,129 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+
+      "compressed_cobblestone": {
+      "textures": "textures/blocks/compressed_cobblestone"
+    },
+      "double_compressed_red_sand": {
+      "textures": "textures/blocks/double_compressed_red_sand"
+    },
+      "diamond_plant": {
+      "textures": "textures/blocks/diamond_plant"
+    },
+      "dragonium_plant": {
+      "textures": "textures/blocks/dragonium_plant"
+    },
+      "quartz_plant": {
+      "textures": "textures/blocks/quartz_plant"
+    },
+      "coal_plant": {
+      "textures": "textures/blocks/coal_plant"
+    },
+      "compressed_rotten_flesh": {
+      "textures": "textures/blocks/compressed_rotten_flesh"
+    },
+      "subscribe_block": {
+      "textures": "textures/blocks/subscribe_block"
+    },
+      "weak_torch": {
+      "textures": "textures/blocks/weak_torch"
+    },
+      "blue_plant": {
+      "textures": "textures/blocks/blue_plant"
+    },
+      "end_block": {
+      "textures": "textures/blocks/end_block"
+    },
+      "redstone_plant": {
+      "textures": "textures/blocks/redstone_plant"
+    },
+      "emerald_plant": {
+      "textures": "textures/blocks/emerald_plant"
+    },
+      "dragonium_block": {
+      "textures": "textures/blocks/dragonium_block"
+    },
+      "compressed_cactus": {
+      "textures": "textures/blocks/compressed_cactus"
+    },
+      "cobblestone_miner_template": {
+      "textures": "textures/blocks/cobblestone_miner_template"
+    },
+      "cobblestone_gen1_template": {
+      "textures": "textures/blocks/cobblestone_gen1_template"
+    },
+      "cobblestone_gen2_template": {
+      "textures": "textures/blocks/cobblestone_gen2_template"
+    },
+      "cobblestone_gen3_template": {
+      "textures": "textures/blocks/cobblestone_gen3_template"
+    },
+      "cobblestone_gen4_template": {
+      "textures": "textures/blocks/cobblestone_gen4_template"
+    },
+      "cobblestone_gen5_template": {
+      "textures": "textures/blocks/cobblestone_gen5_template"
+    },
+      "sand_gen1_template": {
+      "textures": "textures/blocks/sand_gen1_template"
+    },
+      "sand_gen2_template": {
+      "textures": "textures/blocks/sand_gen2_template"
+    },
+      "sand_gen3_template": {
+      "textures": "textures/blocks/sand_gen3_template"
+    },
+      "sand_gen4_template": {
+      "textures": "textures/blocks/sand_gen4_template"
+    },
+      "sand_gen5_template": {
+      "textures": "textures/blocks/sand_gen5_template"
+    },
+      "grinder_template": {
+      "textures": "textures/blocks/grinder_template"
+    },
+      "farmer_template": {
+      "textures": "textures/blocks/farmer_template"
+    },
+      "water_tank_template": {
+      "textures": "textures/blocks/water_tank_template"
+    },
+      "lava_tank_template": {
+      "textures": "textures/blocks/lava_tank_template"
+    },
+      "double_compressed_sand": {
+      "textures": "textures/blocks/double_compressed_sand"
+    },
+      "compressed_sugarcane": {
+      "textures": "textures/blocks/compressed_sugarcane"
+    },
+      "double_compressed_sugarcane": {
+      "textures": "textures/blocks/double_compressed_sugarcane"
+    },
+      "triple_compressed_sugarcane": {
+      "textures": "textures/blocks/triple_compressed_sugarcane"
+    },
+      "quadruple_compressed_sugarcane": {
+      "textures": "textures/blocks/quadruple_compressed_sugarcane"
+    },
+      "compressed_sand": {
+      "textures": "textures/blocks/compressed_sand"
+    },
+      "compressed_red_sand": {
+      "textures": "textures/blocks/compressed_red_sand"
+    },
+      "quadruple_compressed_cobblestone": {
+      "textures": "textures/blocks/quadruple_compressed_cobblestone"
+    },
+      "double_compressed_cobblestone": {
+      "textures": "textures/blocks/double_compressed_cobblestone"
+    },
+      "triple_compressed_cobblestone": {
+      "textures": "textures/blocks/triple_compressed_cobblestone"
+    }
+  }
+}

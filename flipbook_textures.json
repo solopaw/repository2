@@ -1,0 +1,57 @@
+[
+{
+    "flipbook_texture": "textures/blocks/coal_plant",
+    "atlas_tile": "coal_plant",
+    "ticks_per_frame": 42
+  },
+  {
+    "flipbook_texture": "textures/blocks/dragonium_block",
+    "atlas_tile": "dragonium_block",
+    "ticks_per_frame": 32
+  },
+  {
+    "flipbook_texture": "textures/blocks/diamond_plant",
+    "atlas_tile": "diamond_plant",
+    "ticks_per_frame": 42
+  },
+  {
+    "flipbook_texture": "textures/blocks/weak_torch",
+    "atlas_tile": "weak_torch",
+    "ticks_per_frame": 52
+  },
+  {
+    "flipbook_texture": "textures/blocks/emerald_plant",
+    "atlas_tile": "emerald_plant",
+    "ticks_per_frame": 42
+  },
+  {
+    "flipbook_texture": "textures/blocks/dragonium_plant",
+    "atlas_tile": "dragonium_plant",
+    "ticks_per_frame": 42
+  },
+  {
+    "flipbook_texture": "textures/blocks/lapis_plant",
+    "atlas_tile": "lapis_plant",
+    "ticks_per_frame": 42
+  },
+  {
+    "flipbook_texture": "textures/blocks/end_block",
+    "atlas_tile": "end_block",
+    "ticks_per_frame": 1
+  },
+  {
+    "flipbook_texture": "textures/blocks/subscribe_block",
+    "atlas_tile": "subscribe_block",
+    "ticks_per_frame": 3
+  },
+  {
+    "flipbook_texture": "textures/blocks/quartz_plant",
+    "atlas_tile": "quartz_plant",
+    "ticks_per_frame": 42
+  },
+  {
+    "flipbook_texture": "textures/blocks/redstone_plant",
+    "atlas_tile": "redstone_plant",
+    "ticks_per_frame": 42
+  }
+]
