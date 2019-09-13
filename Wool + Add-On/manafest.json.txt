@@ -1,0 +1,19 @@
+{
+   "format_version" : 1,
+   "header" : {
+      "description" : "This Addon is Made By AdamJoelFraser(gamertag).",
+      "name" : "Wool+ Add-On",
+      "platform_locked" : false,
+      "uuid" : "34a70dfa-6e44-473d-0120-edcc7b37197506",
+      "version" : [ 2, 1, 0 ]
+   },
+   "min_engine_version" : [ 2, 0, 0, 1, 2, 5 ],
+   "modules" : [
+      {
+        "This Addon is Made By AdamJoelFraser(gamertag)",
+         "type" : "resources",
+         "uuid" : "8905a70dfa-6e44-473d-0120-edcc7b37197506",
+         "version" : [ 2, 1, 0 ]
+      }
+   ]
+}
