@@ -1,0 +1,28 @@
+{ 
+   "Format_Version":1.12,
+    "description":{
+          "identifier" : "Minecraft:Diamond"
+          },
+     "tags":[
+        "crafting_table"
+    ],
+    "patten": {
+        "---"
+        " / "
+        " / "
+    }
+    "key": {
+        "/" :{    
+            "minecraft:cobblestone"
+        },
+        "-" :{    
+            minecraft:dirt
+    },
+     "result":[
+            {
+          minecraft:diamond
+            count: 10
+        }
+      ]
+   }
+}
