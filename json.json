@@ -21,7 +21,7 @@
      "result":[
             {
           "minecraft:diamond"
-            count: 10
+            "count": 10
         }
       ]
    }
